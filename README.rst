@@ -5,4 +5,4 @@ from raw data utilising visual aids.
 
 Note 
 ----
-These scripts still use Python version 2.7. 
+These scripts are based on Python version 2.7. 
